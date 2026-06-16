@@ -45,7 +45,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 Create a .env file:
-GEMINI_API_KEY=my_api_key
+GEMINI_API_KEY=your_gemini_api_key_here
 
 Run the application:
 streamlit run app.py
